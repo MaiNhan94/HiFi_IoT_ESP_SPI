@@ -1,0 +1,2 @@
+src/libriscv__mmachine___a-trap.o: \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/src/trap.S

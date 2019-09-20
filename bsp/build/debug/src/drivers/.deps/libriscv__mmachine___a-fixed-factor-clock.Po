@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine___a-fixed-factor-clock.o: \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/src/drivers/fixed-factor-clock.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:

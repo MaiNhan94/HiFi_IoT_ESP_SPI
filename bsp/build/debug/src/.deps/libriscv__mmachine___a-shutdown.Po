@@ -1,0 +1,106 @@
+src/libriscv__mmachine___a-shutdown.o: \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/src/shutdown.c \
+ metal/machine.h metal/machine/platform.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/fixed-clock.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/compiler.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/clock.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\lib\gcc\riscv64-unknown-elf\8.2.0\include\stddef.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/memory.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\lib\gcc\riscv64-unknown-elf\8.2.0\include\stdint.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\stdint.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\machine\_default_types.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\sys\features.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\_newlib_version.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\sys\_intsup.h \
+ f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\sys\_stdint.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/riscv_clint0.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/riscv_cpu.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/cpu.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/interrupt.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/riscv_plic0.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/pmp.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_gpio0.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/gpio.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_gpio-leds.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/led.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_spi0.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/io.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/spi.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_uart0.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/uart.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/shutdown.h
+
+metal/machine.h:
+
+metal/machine/platform.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/fixed-clock.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/compiler.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/clock.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\lib\gcc\riscv64-unknown-elf\8.2.0\include\stddef.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/memory.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\lib\gcc\riscv64-unknown-elf\8.2.0\include\stdint.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\stdint.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\machine\_default_types.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\sys\features.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\_newlib_version.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\sys\_intsup.h:
+
+f:\hifive-iot\freedomstudio-4.7.2.2019-05-0-win32.win32.x86_64\sifive\riscv64-unknown-elf-gcc\riscv64-unknown-elf-gcc-8.2.0-2019.05.3\riscv64-unknown-elf\include\sys\_stdint.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/riscv_clint0.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/riscv_cpu.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/cpu.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/interrupt.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/riscv_plic0.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/pmp.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_local-external-interrupts0.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_gpio0.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/gpio.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_gpio-leds.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/led.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_spi0.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/io.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/spi.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_uart0.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/uart.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfrosc.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_prci.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_hfxosc.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/drivers/sifive_fe310-g000_pll.h:
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/shutdown.h:

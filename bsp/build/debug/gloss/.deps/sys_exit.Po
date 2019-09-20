@@ -1,0 +1,5 @@
+gloss/sys_exit.o: \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/gloss/sys_exit.c \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/shutdown.h
+
+F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/metal/shutdown.h:

@@ -1,0 +1,2 @@
+gloss/crt0.o: \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/gloss/crt0.S

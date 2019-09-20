@@ -1,0 +1,5 @@
+src/drivers/libriscv__mmachine___a-sifive_clic0.o: \
+ F:/HiFive-IoT/Workspace/sifive-hifive1-revb-hello/freedom-metal/src/drivers/sifive_clic0.c \
+ metal/machine/platform.h
+
+metal/machine/platform.h:
